@@ -30,7 +30,3 @@ while running:
         environment.show_sensorData()
     environment.map.blit(environment.infomap,(0,0))
     pygame.display.update()
-
-
-    
-    pygame.display.update()
